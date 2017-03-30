@@ -1,2 +1,2 @@
 # angular-template-store
-A template store with PayPal functionality made with Angular
+A template store with PayPal buy functionality made with Angular
